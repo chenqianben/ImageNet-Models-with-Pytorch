@@ -3,7 +3,7 @@ ImageNet Models
     
 This aims to help the author consult the newest Image Network Models  and get a better understanding of the Deep Learning.
 
-All the codes are written by Jupyter Notebook
+All the codes are written by Jupyter Notebook.
 
 Reference
 ============
